@@ -9,6 +9,7 @@ public class MyTest1 {
         int b=10;
         int c=30;
         int d=20;
+        int e=50;
         System.out.println(a+b);
     }
 }
